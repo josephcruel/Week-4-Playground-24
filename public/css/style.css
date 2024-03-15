@@ -1,0 +1,16 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+fieldset {
+    display: block;
+    border: 0px;
+    border-image-source: initial; 
+    border-image-slice: initial;
+    border-image-width: initial; 
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    padding: 30px;  
+}
